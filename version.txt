@@ -32,12 +32,12 @@ VSVersionInfo(
           [
             StringStruct(u'CompanyName', u'tg: @aqsky'),
             StringStruct(u'FileDescription', u'Dino Script'),
-            StringStruct(u'FileVersion', u'1.0.2.0'),
+            StringStruct(u'FileVersion', u'1.0.2.1'),
             StringStruct(u'InternalName', u'DinoScript'),
             StringStruct(u'LegalCopyright', u'Copyright (c) tg: @aqsky'),
             StringStruct(u'OriginalFilename', u'DinoScript.exe'),
             StringStruct(u'ProductName', u'Dino Script'),
-            StringStruct(u'ProductVersion', u'1.0.2.0')
+            StringStruct(u'ProductVersion', u'1.0.2.1')
           ]
         )
       ]

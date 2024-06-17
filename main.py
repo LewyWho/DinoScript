@@ -9,7 +9,7 @@ from PySide6.QtCore import Qt, QTimer, QPropertyAnimation, QSequentialAnimationG
 from PySide6.QtGui import QIcon, QPixmap, QDesktopServices, QColor, QAction
 from PySide6.QtCore import QUrl
 
-bbox = (841, 471, 889.222, 509)
+bbox = (841, 471, 881, 509)
 running = False
 script_thread = None
 jump_counter = 0
@@ -69,8 +69,8 @@ class DinoApp(QWidget):
 
         self.setWindowTitle("Dino Script | tg: @aqsky")
         self.setGeometry(100, 100, 325, 125)
-        self.setWindowIcon(QIcon("C:/Users/alex2/Downloads/ico.ico"))
-        self.setWindowIcon(QPixmap("C:/Users/alex2/Downloads/ico.ico"))
+        self.setWindowIcon(QIcon("ico.ico"))
+        self.setWindowIcon(QPixmap("ico.ico"))
 
         self.setFixedSize(345, 125)
 
